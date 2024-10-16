@@ -1,5 +1,4 @@
-import React from 'react'
-import { assets, plans } from '../assets/assets'
+import { plans } from '../assets/assets'
 import { IPlans } from '../types/type'
 
 const BuyCredit = () => {
